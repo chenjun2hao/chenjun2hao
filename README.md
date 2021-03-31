@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello 👋
 
 <!--
 **chenjun2hao/chenjun2hao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![chenjun2hao's GitHub stats](https://github-readme-stats.vercel.app/api?username=chenjun2hao&theme=outrun&show_icons=true)
+![chenjun2hao's GitHub stats](https://github-readme-stats.vercel.app/api?username=chenjun2hao&theme=flag-india&show_icons=true)
